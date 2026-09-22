@@ -6,7 +6,7 @@ NIM : 2488010046
 Praktikum preprocessing data:
 data splitting,label encoding dan one hot encoding
 ## Isi Repositori
-- PM_TuRi1_EDA_Nama.ipynb : notebook praktikum
+- PM_P4_EDA_MuhammadRaffi_2488010046.ipynb : notebook praktikum
 ## Temuan Utama
 preproscessing = perbaikan ke data(misal data hilang dihapus atau lainnya)/pembersihan dan menstandarkan data.
 fitur enginering = membuat/ menciptakan fitur baru(pake intuisi) dan memilih fitur informatif / yang akan digunakan di pemodelan. nambah kalo sebuah fitur penting diciptakan dikurangi kalo sebuah fitur tidak berkorelasi dengan label
